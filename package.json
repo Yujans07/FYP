@@ -1,0 +1,48 @@
+{
+  "name": "laptopzone",
+  "version": "1.0.0",
+  "description": "Mobile Hub is an online website for buying brand mobile phones",
+  "main": "server.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=DEVELOPMENT nodemon Backend/server"
+  },
+  "author": "Pranay Bantawa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "@react-oauth/google": "^0.12.1",
+    "abort-controller": "^3.0.0",
+    "axios": "^1.8.4",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^2.0.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "express-fileupload": "^1.4.3",
+    "express-session": "^1.18.0",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongodb": "^6.14.0",
+    "mongoose": "^8.1.1",
+    "multer": "^1.4.5-lts.1",
+    "node-schedule": "^2.1.1",
+    "nodemailer": "^6.9.8",
+    "passport": "^0.7.0",
+    "passport-google-oauth2": "^0.2.0",
+    "react-js-pagination": "^3.0.3",
+    "semver": "^7.5.4",
+    "stripe": "^14.25.0",
+    "undefsafe": "^2.0.5",
+    "validator": "^13.11.0"
+  }
+}

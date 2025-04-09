@@ -1,0 +1,130 @@
+[
+    {
+        "name" : "Apple M1 MacBook Air 2020 13.3, Retina Display / Apple M1 Chip / 8GB RAM/ 256GB SSD",
+        "price" : "45.89",
+        "description" : "Brand new factory-sealed Apple M1 MacBook Air 2020 13.3 Retina Display with 400nits brightness and P3 color gamut, first-generation Apple M1 Chip, Octa-core (8-core) CPU with 4 perform­ance cores and 4 efficiency cores, 7-core GPU, 16-core Neural Engine, 8GB unified Memory, 256GB SSD Storage, Stereo speakers, FacTime HD Camera, Backlit Magic Keyboard, Up to 18 hours of battery life, 0.63-inch, 1.29KG Weight.",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/Assests_bdeugu.webp",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718498/products/Assests_bdeugu.webp"
+        }],
+        "category" : "Macbook",
+        "stock" : 0,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "ASUS Vivobook 15 Intel Core i5 11th Gen 1135G7",
+        "price" : "1050",
+        "description" : "The outstanding Asus VivoBook 15 laptop, created to simplify your workday and improve performance, offers fantastic efficiency and stunning aesthetics. This laptop handles all of your multitasking requirements and gives you dynamic performance thanks to the Intel Core processor. Additionally, the dual-storage ASUS VivoBook 15 offers you the benefits of incredibly fast data speed and ample storage capacity. Moreover, its svelte and exquisite form makes you the centre of attention everywhere you go when donning it with you",
+        "ratings" : 3.9,
+        "images" : [{
+            "public_id" : "products/ASUS_Vivobook_dixtha.webp",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718497/products/ASUS_Vivobook_dixtha.webp"
+        }],
+        "category" : "Asus",
+        "stock" : 0,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "15.6'' Ideapad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD",
+        "price" : "492.99 ",
+        "description" : "This Lenovo 15.6 IdeaPad Laptop is perfect working for Home, Student, Professionals, Small Business, School Education, and Commercial Enterprise, Online Class, Google Classroom, Remote Learning, Zoom Ready.SpecificationsProcessor: Athlon Silver 3050U dual-core processorOperating system: Windows 11 Home 64-bit in S modeGraphics: AMD Radeon GraphicsMemory: 8GB DDR4 SDRAMHard Drive: 512GB PCIe SSD + 128GB eMMCDisplay: 15.6 HD (1366 x 768) TN 220 nits Anti-GlareConnectivity: Wireless-AX and Bluetooth 4.2 comboAudio: 2 x 1.5W Speakers with Dolby AudioBuilt-in HD Webcam: 720P Camera with Privacy Shutter and Dual Array MicrophonesPorts:1 x USB 3.2 Type A1 x USB 3.2 Type C1 x USB 2.0 Type A1 x HDMI 1.41 x AC Smart Pin1 x Multi-format SD media card reader1 x Headphone / Mic Combo JackBattery Life (up to): 9.50 hoursColor: Cloud GreyDimensions L x W x H (inches): 14.2 x 9.2 x 0.7 inchesWeight: 3.52 lbs",
+        "ratings" : 5,
+        "images" : [{
+            "public_id" : "products/Ideapad_Laptop_ohtor8.png",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718499/products/Ideapad_Laptop_ohtor8.png"
+        }],
+        "category" : "Intel",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "NEW HP 15.6 Full HD (256GB SSD, Intel i5 11th Gen, 12GB) Laptop HP 15-dy2061ms",
+        "price" : "359.00 ",
+        "description" : "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
+        "ratings" : 1,
+        "images" : [{
+            "public_id" : "products/New_HP_g2visz.jpg",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718499/products/New_HP_g2visz.jpg"
+        }],
+        "category" : "HP",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "Apple MacBook Pro 16-inch 16 i9 - M1 2021 - M2-Max 2023 3.6GHz 96GB RAM 2TB",
+        "price" : "126.99 ",
+        "description" : "Apple MacBook Pro 16-inch Customize up to M2 Max 38-Core Techable partners with Apple to provide a wide variety of Renewed options.  Fully customizable 2019-2021 Apple MacBook Pro 16-inch, allowing you to tailor your MacBook to your exact needs and specifications.",
+        "ratings" : 5,
+        "images" : [{
+            "public_id" : "products/Apple_MacBook_Pro_y9of70.jpg",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718498/products/Apple_MacBook_Pro_y9of70.jpg"
+        }],
+        "category" : "Macbook",
+        "stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "Lenovo Ideapad 5 - 15.6 Full HD Laptop, 512 GB SSD, 8 GB RAM",
+        "price" : "27.99",
+        "description" : "This Lenovo IdeaPad 5 laptop is perfect for both workstation and casual computing needs. With a 15.6 inch screen and a maximum resolution of 1920 x 1080, you'll enjoy clear and crisp visuals. It features an Intel Core i5-1235U processor with a speed of 2.40 GHz, 8 GB RAM, and a 512 GB SSD for ample storage. The laptop runs on Windows 11 Home operating system and has integrated Intel Iris Xe Graphics. In addition, this Lenovo IdeaPad 5 laptop comes equipped with built-in Bluetooth, Wi-Fi, and a backlit keyboard for ease of use in any lighting conditions. It also has a built-in webcam, HDMI, SD card slot, USB 3.0, and USB-C connectivity options. The laptop is lightweight at 3.9 lbs and has dimensions of 15 x 10 x 1. This unit is in great working order and is ready to serve you in your computing needs.",
+        "ratings" : 5,
+        "images" : [{
+            "public_id" : "products/Lenovo_Ideapad_tkahoc.png",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718498/products/Lenovo_Ideapad_tkahoc.png"
+        }],
+        "category" : "Lenovo",
+        "stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "MSI Modern 14 Intel Core i3 11th Gen 1115G4",
+        "price" : "496.95",
+        "description" : "You can enjoy fast processing with the 11th Gen Intel Core processor. It has a sleek and stylish design that makes it easy to carry. The 180-degree lay-flat hinge allows you to share contents more efficiently among colleagues. The backlit keyboard helps you to view the keys clearly even in the dark. It has numerous ports so that you can stay connected anytime. You can enjoy mesmerising audio through the Modern Series sound system as you watch your favourite movies.",
+        "ratings" : 4,
+        "images" : [{
+            "public_id" : "products/MSI_Modern_zbnuez.webp",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718499/products/MSI_Modern_zbnuez.webp"
+        }],
+        "category" : "Intel",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "CHUWI 14.1 HD 2.8GHz Laptop - Intel Celeron N4100 with 8GB DDR4 256GB SSD Gray",
+        "price" : "949.99",
+        "description" : "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+        "ratings" : 3,
+        "images" : [{
+            "public_id" : "products/CHUWI_hb0gag.jpg",
+            "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706718499/products/CHUWI_hb0gag.jpg"
+        }],
+        "category" : "Intel",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "HP OMEN Intel Core i7 14th Gen 14700HX",
+        "price" : "2.75",
+        "description" : "HP Inc, is an American Technology Company established in 2015 out of the personal computer and printer divisions of the original Hewlett-Packard Company. HP develops personal computers (PCs) as well as printers and related supplies. It is the Top Selling Laptop Brand in the country",
+        "ratings" : 2,
+        "images" : [
+            {
+                "public_id" : "products/HP_OMEN_rtu3pv.webp",
+                "url" : "https://res.cloudinary.com/laptopzone/image/upload/v1706720828/products/HP_OMEN_rtu3pv.webp"
+            }
+    ],
+        "category" : "HP",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    }
+]
